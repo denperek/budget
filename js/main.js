@@ -29,5 +29,3 @@ let yearValue = document.querySelector('.year-value');
 let monthValue = document.querySelector('.month-value');
 let dayValue = document.querySelector('.day-value');
 
-document.querySelector('.choose-expenses').style.fontSize = '180px';
-
